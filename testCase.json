@@ -1,0 +1,9 @@
+{
+    "TestCaseID": "TC001",
+    "Name": "Login Test",
+    "Description": "Validates user login functionality",
+    "Steps": [
+      {"Step": "Open Login Page", "ExpectedResult": "Page loads successfully"},
+      {"Step": "Enter Credentials", "ExpectedResult": "User is logged in"}
+    ]
+  }
